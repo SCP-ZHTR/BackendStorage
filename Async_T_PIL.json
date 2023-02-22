@@ -49286,25 +49286,29 @@
          "翻譯"
       ],
       "comments": "0",
-      "rating": "4",
-      "votes": "4",
+      "rating": "5",
+      "votes": "5",
       "detailed_rating": {
          "+": [
             [
                "5344757",
-               1617120000
+               "[UNKNOWN]"
             ],
             [
                "4990678",
-               1617120000
+               "[UNKNOWN]"
             ],
             [
                "6217438",
-               1654876800
+               "[UNKNOWN]"
+            ],
+            [
+               "8177208",
+               "[UNKNOWN]"
             ],
             [
                "4442284",
-               1617120000
+               "[UNKNOWN]"
             ]
          ]
       },
@@ -96011,21 +96015,25 @@
          "翻譯"
       ],
       "comments": "1",
-      "rating": "3",
-      "votes": "3",
+      "rating": "4",
+      "votes": "4",
       "detailed_rating": {
          "+": [
             [
+               "6503482",
+               "[UNKNOWN]"
+            ],
+            [
                "6217438",
-               1676736000
+               "[UNKNOWN]"
             ],
             [
                "8177208",
-               1676563200
+               "[UNKNOWN]"
             ],
             [
                "5435485",
-               1676563200
+               "[UNKNOWN]"
             ]
          ]
       },
@@ -96355,8 +96363,8 @@
          "藝術作品"
       ],
       "comments": "0",
-      "rating": "2",
-      "votes": "2",
+      "rating": "3",
+      "votes": "3",
       "detailed_rating": {
          "+": [
             [
@@ -96366,9 +96374,76 @@
             [
                "4990678",
                "[UNKNOWN]"
+            ],
+            [
+               "6217438",
+               "[UNKNOWN]"
             ]
          ]
       },
       "id": "1446355865"
+   },
+   "1677046310": {
+      "title": "SCP-1009-RU - 天使般的讚美詩",
+      "fullname": "scp-1009-ru",
+      "created_at": "1677046310",
+      "created_by": "5255954",
+      "tags": [
+         "keter",
+         "ru",
+         "scp",
+         "宗教",
+         "翻譯"
+      ],
+      "comments": "2",
+      "rating": "4",
+      "votes": "4",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               "[UNKNOWN]"
+            ],
+            [
+               "7605593",
+               "[UNKNOWN]"
+            ],
+            [
+               "5701756",
+               "[UNKNOWN]"
+            ],
+            [
+               "5435485",
+               "[UNKNOWN]"
+            ]
+         ]
+      },
+      "id": "1446361220"
+   },
+   "1677067436": {
+      "title": "關注組織：A.D.為對外聯絡特工所做的回顧講座。摘錄內容：機器人共和國",
+      "fullname": "external-relations-orientation-robotic-republic",
+      "created_at": "1677067436",
+      "created_by": "7605593",
+      "tags": [
+         "a.d.對外聯絡主任",
+         "ua",
+         "二次翻譯",
+         "故事",
+         "機器人共和國",
+         "翻譯"
+      ],
+      "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               "[UNKNOWN]"
+            ]
+         ]
+      },
+      "id": "1446364806"
    }
 }
