@@ -96635,9 +96635,16 @@
          "貓類"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "8033564",
+               1677543254
+            ]
+         ]
+      },
       "id": "1446470327"
    }
 }
