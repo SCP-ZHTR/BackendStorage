@@ -96776,9 +96776,16 @@
          "醫學性"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1677628575
+            ]
+         ]
+      },
       "id": "1446478230"
    }
 }
