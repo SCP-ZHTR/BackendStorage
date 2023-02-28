@@ -96709,9 +96709,16 @@
          "重力影響"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "7521095",
+               1677579141
+            ]
+         ]
+      },
       "id": "1446475916"
    }
 }
