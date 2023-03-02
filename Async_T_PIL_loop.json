@@ -96833,9 +96833,16 @@
          "電腦"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "5415046",
+               1677765476
+            ]
+         ]
+      },
       "id": "1446553141"
    }
 }
