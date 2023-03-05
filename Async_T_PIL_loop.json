@@ -97078,9 +97078,16 @@
          "骨骼"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "5338547",
+               1678027885
+            ]
+         ]
+      },
       "id": "1446573113"
    }
 }
