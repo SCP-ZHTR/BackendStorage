@@ -97121,9 +97121,16 @@
          "翻譯"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1678106285
+            ]
+         ]
+      },
       "id": "1446583943"
    }
 }
