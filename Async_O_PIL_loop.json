@@ -108420,9 +108420,16 @@
          "藝作"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1678291447
+            ]
+         ]
+      },
       "id": "1446599338"
    }
 }
