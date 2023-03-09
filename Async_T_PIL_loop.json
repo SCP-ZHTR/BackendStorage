@@ -97386,5 +97386,29 @@
          ]
       },
       "id": "1446598640"
+   },
+   "1678349631": {
+      "title": "標準掩蓋故事列表",
+      "fullname": "list-of-standard-cover-stories",
+      "created_at": "1678349631",
+      "created_by": "6217438",
+      "tags": [
+         "en",
+         "合作",
+         "故事",
+         "翻譯"
+      ],
+      "comments": "0",
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "6217438",
+               1678349860
+            ]
+         ]
+      },
+      "id": "1446604858"
    }
 }
