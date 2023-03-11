@@ -108518,9 +108518,16 @@
          "原創"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "4990678",
+               1678541192
+            ]
+         ]
+      },
       "id": "1446689738"
    }
 }
