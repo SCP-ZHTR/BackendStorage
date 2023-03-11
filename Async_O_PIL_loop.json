@@ -108514,7 +108514,7 @@
    },
    "1678528278": {
       "title": "SCP-ZH-142 - 媽咪，我愛你",
-      "fullname": "scp-142",
+      "fullname": "scp-zh-142",
       "created_at": "1678528278",
       "created_by": "6350786",
       "tags": [
@@ -108534,9 +108534,16 @@
          "音樂性"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "5435485",
+               1678528959
+            ]
+         ]
+      },
       "id": "1446688624"
    }
 }
