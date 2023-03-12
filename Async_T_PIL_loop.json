@@ -97789,9 +97789,16 @@
          "衣物"
       ],
       "comments": "0",
-      "rating": "0",
-      "votes": "0",
-      "detailed_rating": {},
+      "rating": "1",
+      "votes": "1",
+      "detailed_rating": {
+         "+": [
+            [
+               "8033564",
+               1678631063
+            ]
+         ]
+      },
       "id": "1446696906"
    }
 }
